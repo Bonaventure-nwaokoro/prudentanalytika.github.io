@@ -1,1 +1,1 @@
-# prudentanalytika.github.io my first site
+Integrating bootstrap with Django
